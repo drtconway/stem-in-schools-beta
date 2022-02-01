@@ -53,7 +53,6 @@ export default {
         { name: 'Heads', count: 35 },
         { name: 'Tails', count: 49 },
       ],
-      distr: simulate(1, 1),
     }
   },
 
